@@ -33,3 +33,7 @@ while user_answer != "Q":
     print("Random name from the file -> {}".format(get_random_heroes()))
     print("--------------------------------------------")
     user_answer = input('Use Enter to get a new entry or Q to quit the script\n').upper() # q == Q -> allow the script to end if user enter q instead of Q
+
+# todo : 
+# add a choice for user to add a hero name
+# add this hero's name to the .json file
