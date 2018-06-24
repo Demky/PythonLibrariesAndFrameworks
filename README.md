@@ -3,10 +3,15 @@ Random libraries I like from Python
 
 
 
-Library name | How I used it | Folder name |official links EN / FR 
---------- | --------- | --------- | ---------
-Import Json |  host a list/dictionary for python script to pick inside of it | pl_json | https://docs.python.org/3/library/json.html <br/>  https://docs.python.org/fr/dev/library/json.html
+Library name | setup | How I used it | Folder name |official links EN / FR 
+--------- | --------- | --------- | ---------| ---------
+Json | import Json |  host a dictionary then the python script pick inside of it | pl_json | https://docs.python.org/3/library/json.html <br/>  https://docs.python.org/fr/dev/library/json.html
 
+_Coming soon_
+
+Framework name | setup | How I used it | Folder name |official links EN / FR 
+--------- | --------- | --------- | ---------| ---------
+Scrapy | pip install scrapy | | | https://scrapy.org/
 
 <br/> <br/> 
 --------------
