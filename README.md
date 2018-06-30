@@ -24,13 +24,10 @@ Main | Application name | setup | what does it do? | Folder name |official links
 --------- | --------- | --------- | --------- | ---------| ---------
 Django (web) | django-postman | for setup guide see in the django-postman's readme |This application provides a messaging functionality, mainly for a User-to-User exchange. | dj_postman | https://bitbucket.org/psam/django-postman/
 
+<br/> 
 
-
-
-
-
-<br/> <br/> 
 --------------
+
 This files is not complete <br/> 
 _help us by submiting your favorite libraries_
 
@@ -41,9 +38,6 @@ _help us by submiting your favorite libraries_
 * Push to the branch (git push origin my-favorite-library)
 * Create new Pull Request (**your request must contain an explanation about the library and why you like it**)
 
-
-
-
-<br/> <br/> 
+<br/>
 
     Contributors : Demky
