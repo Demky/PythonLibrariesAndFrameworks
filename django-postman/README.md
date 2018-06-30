@@ -11,6 +11,13 @@ well then, i don't even know why he even lies on his wiki :speak_no_evil: : http
 
 Sad but still a good application if you use django ! 
 
+Important link : 
+---------
+
+* Official wiki : https://bitbucket.org/psam/django-postman/wiki/Home
+
+* Official source : https://bitbucket.org/psam/django-postman/src
+
 **The following text is the official readme :**
 --------------
 
