@@ -1,6 +1,20 @@
-==============
 Django Postman
 ==============
+
+*Downloaded from official repository on 2018/06/30.*
+
+Django Postman isnt availlable on github.
+The original project is on Bitbucket (mercurial folder =/= git ) : https://bitbucket.org/psam/django-postman
+
+*NB:* the doc is supposed to be availlable in many language (as the text says on his wiki) but when we asked the author where were the others languages, he mocked us and said that "_it's time to learn english if you want to computer_"
+well then, i don't even know why he even lies on his wiki :speak_no_evil: : https://bitbucket.org/psam/django-postman/wiki/Home maybe one day he will upload em.
+
+Sad but still a good application if you use django ! 
+
+**The following text is the official readme :**
+--------------
+
+<br />
 
 This is an application for the Django web framework.
 
