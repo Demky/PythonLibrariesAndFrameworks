@@ -10,6 +10,7 @@ Library name | setup | How I used it | Folder name |official links EN / FR
 Json | import Json |  host a dictionary then the python script pick inside of it | pl_json | https://docs.python.org/3/library/json.html <br/>  https://docs.python.org/fr/dev/library/json.html
 
 *Modules*
+--
 
 Modules name | setup | How I used it | Folder name |official links EN / FR 
 --------- | --------- | --------- | ---------| ---------
