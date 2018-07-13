@@ -59,4 +59,4 @@ _help us by submiting your favorite libraries_
 
 <br/>
 
-    Contributors : Demky
+    Contributors : Demky ; < _your name here_ >
