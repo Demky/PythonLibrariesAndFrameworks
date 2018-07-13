@@ -36,6 +36,16 @@ Django (web) | django-postman | for setup guide see in the django-postman's read
 <br/> 
 
 --------------
+Road map & interesting stuffs to add later (when I have time):
+---------------
+* finish Scrapy
+* finish Django HTTP Servers
+* add Django local flavor (reference every [town, region] by country.
+_Source_ : from a country https://github.com/Demky/django-localflavor // https://github.com/Demky/django-localflavor
+
+
+--------------
+
 
 This files is not complete <br/> 
 _help us by submiting your favorite libraries_
