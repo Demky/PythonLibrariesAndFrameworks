@@ -1,7 +1,7 @@
 # PythonLibraryAndFramework :interrobang:
 Random libraries, frameworks, applications and stuffs that I like. :sparkling_heart:
 
-:cyclone: *Python functions*
+:cyclone: *Python _ready to use_ functions*
 --
 
 files name | What do ?
