@@ -1,6 +1,13 @@
 # PythonLibraryAndFramework :interrobang:
 Random libraries, frameworks, applications that I like. :sparkling_heart:
 
+:cyclone: *Python functions*
+--
+
+files name | What do ?
+--------- | ---------
+py_unaccent.py | function to remove accents from a string.
+
 
 *Libraries*
 --
