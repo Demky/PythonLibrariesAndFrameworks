@@ -12,16 +12,16 @@ py_unaccent.py | function to remove accents from a string.
 *Libraries*
 --
 
-Library name | setup | How I used it | Folder name |official links EN / FR 
+Folder name | Library name | setup | How I used it | official links EN / FR 
 --------- | --------- | --------- | ---------| ---------
-Json | import Json |  host a dictionary then the python script pick inside of it | pl_json | https://docs.python.org/3/library/json.html <br/>  https://docs.python.org/fr/dev/library/json.html
+pl_json | Json | import Json |  host a dictionary then the python script pick inside of it | https://docs.python.org/3/library/json.html <br/>  https://docs.python.org/fr/dev/library/json.html
 
 *Modules*
 --
 
-Modules name | setup | How I used it | Folder name |official links EN / FR 
+Folder name | Modules name | setup | How I used it | official links EN / FR 
 --------- | --------- | --------- | ---------| ---------
-HTTP servers | _Coming soon_ | | _Coming soon_ | https://docs.python.org/3/library/http.server.html
+_Coming soon_ | HTTP servers | _Coming soon_ | |  https://docs.python.org/3/library/http.server.html
 
 ^ link and tutos coming soon.
 
@@ -29,16 +29,16 @@ HTTP servers | _Coming soon_ | | _Coming soon_ | https://docs.python.org/3/libra
 *Frameworks*
 --
 
-Framework name | setup | How I used it | Folder name |official links EN / FR 
+Folder name | Framework name | setup | How I used it | official links EN / FR 
 --------- | --------- | --------- | ---------| ---------
-_Coming soon_ : Scrapy | pip install scrapy | | | https://scrapy.org/
+_Coming soon_ : | Scrapy | pip install scrapy | | https://scrapy.org/
 
-*Applications*
+*Django Applications*
 --
 
-Main | Application name | setup | what does it do? | Folder name |official links EN / FR 
+Folder name | Main | Application name | setup | what does it do? | official links EN / FR 
 --------- | --------- | --------- | --------- | ---------| ---------
-Django (web) | django-postman | for setup guide see in the django-postman's readme |This application provides a messaging functionality, mainly for a User-to-User exchange. | dj_postman | https://bitbucket.org/psam/django-postman/
+dj_postman | Django (web) | django-postman | for setup guide see in the django-postman's readme |This application provides a messaging functionality, mainly for a User-to-User exchange. |  https://bitbucket.org/psam/django-postman/
 
 <br/> 
 
