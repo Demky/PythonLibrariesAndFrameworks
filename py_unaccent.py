@@ -5,4 +5,4 @@ def strip_accents(s):
 
 
 # How to use :
-print(strip_accents('mystring : é è à â ê i o ô'))
+print(strip_accents('my string : é è à â ê i o ô'))

@@ -9,29 +9,24 @@ files name | What do ?
 py_unaccent.py | function to remove accents from a string.
 
 
-*Libraries*
+*Libraries & Modules*
 --
 
-Folder name | Library name | setup | How I used it | official links EN / FR 
+Library name | setup | exemple of how to use it | Folder name | official links EN / FR 
 --------- | --------- | --------- | ---------| ---------
-pl_json | Json | import Json |  host a dictionary then the python script pick inside of it | https://docs.python.org/3/library/json.html <br/>  https://docs.python.org/fr/dev/library/json.html
-
-*Modules*
---
-
-Folder name | Modules name | setup | How I used it | official links EN / FR 
---------- | --------- | --------- | ---------| ---------
-_Coming soon_ | HTTP servers | _Coming soon_ | |  https://docs.python.org/3/library/http.server.html
-
-^ link and tutos coming soon.
+Json | import Json |  host a dictionary then the python script pick inside of it |  pl_json |https://docs.python.org/3/library/json.html <br/>  https://docs.python.org/fr/dev/library/json.html
+http server | import http server | _no exemple ATM_ | / |  https://docs.python.org/3/library/http.server.html
 
 
 *Frameworks*
 --
 
-Folder name | Framework name | setup | How I used it | official links EN / FR 
---------- | --------- | --------- | ---------| ---------
-_Coming soon_ : | Scrapy | pip install scrapy | | https://scrapy.org/
+Folder name | Framework name | setup | How I used it |  official description | official links EN / FR 
+--------- | --------- | --------- | ---------| ---------| ---------
+_Coming soon_ | **Scrapy** | pip install scrapy | / | An open source and collaborative framework for extracting the data you need from websites. | https://scrapy.org/
+_Coming soon_ | **Django**  | pip install Django | / | Web framework for perfectionists with deadlines; Django is a Python Web framework that encourages rapid development and clean, pragmatic design | www.djangoproject.com (many language supported EN; FR...)
+
+
 
 *Django Applications*
 --
@@ -39,6 +34,7 @@ _Coming soon_ : | Scrapy | pip install scrapy | | https://scrapy.org/
 Folder name | Main | Application name | setup | what does it do? | official links EN / FR 
 --------- | --------- | --------- | --------- | ---------| ---------
 dj_postman | Django (web) | django-postman | for setup guide see in the django-postman's readme |This application provides a messaging functionality, mainly for a User-to-User exchange. |  https://bitbucket.org/psam/django-postman/
+
 
 <br/> 
 
