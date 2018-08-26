@@ -14,3 +14,5 @@ What ? | Link
 --- | ---
 Tutorial | https://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python
 Official Doc link | https://docs.python.org/3/library/http.server.html
+
+[Screenshopt of the Tutorial](https://i.imgur.com/q2K3Ov5.png)
