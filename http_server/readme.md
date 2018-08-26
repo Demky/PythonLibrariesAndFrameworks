@@ -3,6 +3,8 @@
 
 :droplet: A Simple HTTP Server with Python (i discovered it when I did the tutorial from _Phaser_  ) :
 
+*With HTTP server you can turn any directory in your system into your web server directory. The only thing you need to have installed is Python.*
+
 If you need a quick web server running and you don't want to mess around with setting up Apache or downloading an app, then Python can help. Python comes with a simple built-in HTTP server, which can serve files from any local folder. Naturally the only thing you need to have installed is Python
 
 
