@@ -15,7 +15,7 @@ py_unaccent.py | function to remove accents from a string.
 Library name | setup | Description | exemple of how to use it | Folder name | official links EN / FR 
 --------- | --------- | --------- | --------- | --------- | ---------
 Json | import Json | / | host a dictionary then the python script pick inside of it |  pl_json |https://docs.python.org/3/library/json.html <br/>  https://docs.python.org/fr/dev/library/json.html
-http server | import http server | With HTTP server you can turn any directory in your system into your web server directory. The only thing you need to have installed is Python. |  _no exemple ATM_ | http_server |  there is 2 links inside the *http_server* folder
+http server | import http server | With HTTP server you can turn any directory in your system into your web server directory. The only thing you need to have installed is Python. |  _no exemple ATM_ ; interesting function if you need to run a html files on your localhost | http_server |  there is 2 links inside the *http_server* folder
 
 
 *Frameworks*
