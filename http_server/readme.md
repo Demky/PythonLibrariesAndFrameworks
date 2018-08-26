@@ -17,4 +17,7 @@ Official Doc link | https://docs.python.org/3/library/http.server.html
 
 ------------------------
 
-![Screenshopt of the Tutorial](https://i.imgur.com/q2K3Ov5.png)
+*Screenshot of the Tutorial*
+==
+
+![image 404](https://i.imgur.com/q2K3Ov5.png)
