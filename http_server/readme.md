@@ -22,7 +22,7 @@ Copy/Paste command  | description
 python -m http.server 8000 | *PYTHON 3.0* start server in port 8000
 http://127.0.0.1:8000 | acces localhost
 :warning: | :recycle:
-python -m SimpleHTTPServer | *python 2 only* : start server in port 8000
+python -m SimpleHTTPServer | **Python 2 ONLY** : start server in port 8000
 
 
 
