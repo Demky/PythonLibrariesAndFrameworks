@@ -24,6 +24,8 @@ http://127.0.0.1:8000 | acces localhost
 :warning: | :recycle:
 python -m SimpleHTTPServer | **Python 2 ONLY** : start server in port 8000
 
+In python 3.x the module SimpleHTTPServer has been replaced by http.server.
+
 
 
 ------------------------
