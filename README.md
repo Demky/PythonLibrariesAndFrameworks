@@ -1,5 +1,5 @@
 # PythonLibraryAndFramework :interrobang:
-Random libraries, frameworks, applications and stuffs that I like with Python as main. :sparkling_heart:
+Random libraries, frameworks, applications and stuffs that I like with **Python** as main. :sparkling_heart:
 
 :cyclone: *Python _ready to use_ functions*
 --
