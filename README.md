@@ -15,7 +15,7 @@ py_unaccent.py | function to remove accents from a string.
 Library name | setup | exemple of how to use it | Folder name | official links EN / FR 
 --------- | --------- | --------- | ---------| ---------
 Json | import Json |  host a dictionary then the python script pick inside of it |  pl_json |https://docs.python.org/3/library/json.html <br/>  https://docs.python.org/fr/dev/library/json.html
-http server | import http server | _no exemple ATM_ | / |  https://docs.python.org/3/library/http.server.html
+http server | import http server | _no exemple ATM_ | http_server |  there is 2 link inside the *http_server* folder
 
 
 *Frameworks*
