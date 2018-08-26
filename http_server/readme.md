@@ -17,6 +17,14 @@ Official Doc link | https://docs.python.org/3/library/http.server.html
 
 ------------------------
 
+Copy/Paste command  | description
+--- | ---
+python -m SimpleHTTPServer | start server in port 8000
+http://127.0.0.1:8000 | acces localhost
+
+
+------------------------
+
 *Screenshot of the Tutorial :*
 ==
 
