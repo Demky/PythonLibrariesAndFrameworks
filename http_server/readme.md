@@ -18,9 +18,12 @@ Official Doc link | https://docs.python.org/3/library/http.server.html
 ------------------------
 
 Copy/Paste command  | description
---- | ---
-python -m SimpleHTTPServer | start server in port 8000
+----- | -----
+python -m http.server 8000 | *PYTHON 3.0* start server in port 8000
 http://127.0.0.1:8000 | acces localhost
+:warning: | :recycle:
+python -m SimpleHTTPServer | *python 2 only* : start server in port 8000
+
 
 
 ------------------------
