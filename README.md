@@ -1,14 +1,6 @@
 # PythonLibraryAndFramework :interrobang:
 Random libraries, frameworks, applications and stuffs that I like with **Python** as main. :sparkling_heart:
 
-:cyclone: *Python _ready to use_ functions*
---
-
-files name | What do ?
---------- | ---------
-py_unaccent.py | function to remove accents from a string.
-
-
 *Libraries & Modules*
 --
 
