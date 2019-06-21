@@ -4,10 +4,10 @@ Random libraries, frameworks, applications and stuffs that I like with **Python*
 *Libraries & Modules ; _sometime with POC_*
 --
 
-Library name | Description | Folder name | official links EN / FR 
+Library name | pip instal ? | Description | official links EN / FR 
 --------- | --------- | --------- | --------- | --------- | ---------
-pywebcopy  | Easy solution to scrap a website/webpage +**ready to use POC/Script**| pywebcopy | [official github](https://github.com/rajatomar788/pywebcopy)
-http server | With HTTP server you can turn any directory in your system into your web server directory. The only thing you need to have installed is Python. Interesting function if you need to run a html files on your localhost | http_server | see *http_server* repo
+pywebcopy  | pip install pywebcopy | Easy solution to scrap a website/webpage +**ready to use POC/Script** | [official github](https://github.com/rajatomar788/pywebcopy)
+http server | / | With HTTP server you can turn any directory in your system into your web server directory. The only thing you need to have installed is Python. Interesting function if you need to run a html files on your localhost | see *http_server* repo
 
 *Frameworks*
 --
