@@ -1,24 +1,28 @@
 # PythonLibraryAndFramework :interrobang:
 Random libraries, frameworks, applications and stuffs that I like with **Python**. :sparkling_heart:
 
-*Libraries & Modules*
+*Libraries & Modules ; _sometime with POC_*
 --
 
-Library name | setup | Description | exemple of how to use it | Folder name | official links EN / FR 
+Library name | Description | Folder name | official links EN / FR 
 --------- | --------- | --------- | --------- | --------- | ---------
-pywebcopy  | | Easy solution to scrap a website/webpage | | | https://github.com/rajatomar788/pywebcopy
-Json | import Json | / | host a dictionary then the python script pick inside of it |  pl_json |https://docs.python.org/3/library/json.html <br/>  https://docs.python.org/fr/dev/library/json.html
-http server | import http server | With HTTP server you can turn any directory in your system into your web server directory. The only thing you need to have installed is Python. |  _no exemple ATM_ ; interesting function if you need to run a html files on your localhost | http_server |  there is 2 links inside the *http_server* folder
-
+pywebcopy  | Easy solution to scrap a website/webpage +**ready to use POC/Script**| pywebcopy | [official github](https://github.com/rajatomar788/pywebcopy)
+http server | With HTTP server you can turn any directory in your system into your web server directory. The only thing you need to have installed is Python. Interesting function if you need to run a html files on your localhost | http_server | see *http_server* repo
 
 *Frameworks*
 --
 
-Folder name | Framework name | setup | How I used it |  official description | official links EN / FR 
+Folder name | Framework name | setup | official description | official links EN / FR 
 --------- | --------- | --------- | ---------| ---------| ---------
-_Coming soon_ | **Scrapy** | pip install scrapy | / | An open source and collaborative framework for extracting the data you need from websites. | https://scrapy.org/
-_Coming soon_ | **Django**  | pip install Django | / | Web framework for perfectionists with deadlines; Django is a Python Web framework that encourages rapid development and clean, pragmatic design | www.djangoproject.com (many language supported EN; FR...)
+_Coming soon_ | **Scrapy** | pip install scrapy | An open source and collaborative framework for extracting the data you need from websites. | https://scrapy.org/ (EN)
+_Coming soon_ | **Django**  | pip install Django |  Web framework for perfectionists with deadlines; Django is a Python Web framework that encourages rapid development and clean, pragmatic design | www.djangoproject.com (many language supported EN; FR...)
 
+*Random* _(I made this one when i started python, should delete it)_
+--
+
+Library name | Description | Folder name | official links EN / FR 
+--------- | --------- | --------- | --------- | --------- | ---------
+Json | Python script pick data inside a .json {dictionary} external file | pl_json |[doc#1](https://docs.python.org/3/library/json.html) <br/>  [doc#2](https://docs.python.org/fr/dev/library/json.html)
 
 
 *Django Applications*
